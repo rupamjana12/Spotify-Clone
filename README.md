@@ -1,6 +1,6 @@
 # Spotify-Clone
 
-This is the my third Project.
+This is the my third Project during Web Design at Internship Studio.
 
 visit my website: https://rupamjana12.github.io/Spotify-Clone/
 
